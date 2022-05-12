@@ -2,6 +2,7 @@
 ==================
 
   * depds updated
+  * depds xprezzo-buffer updated to 1.1.2
   * depds xprezzo-content-type updated to 1.1.1
   * depds xprezzo-raw-body updated to 1.1.2
   * depds xprezzo-typeis updated to 1.1.0
